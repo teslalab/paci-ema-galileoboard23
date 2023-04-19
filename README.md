@@ -1,5 +1,5 @@
 # Calidad de aire en interiores con ESP32
-##Maker Faire CDMX 2023
+## Maker Faire CDMX 2023
  
 ## Instalación de la Tarjeta GALIoT Board
 
