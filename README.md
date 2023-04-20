@@ -1,6 +1,6 @@
 # Calidad de aire en interiores con ESP32
 ## Maker Faire CDMX 2023
- 
+ ![Background](img/background.png)
 ## Instalación de la Tarjeta GALIoT Board
 
 Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
