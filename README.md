@@ -45,8 +45,8 @@ Puede seguir está guía para la instalación como una segunda opción
 ### NeoPixels
 Nombre | GPIO 
 --- | --- 
-DATA | 19
-VDD | 3V3 - 5V
+DATA | 14
+VDD | 3V3
 VSS | GND
 
 ### I2C Connector STEMMA
@@ -55,5 +55,12 @@ Nombre | GPIO
 --- | --- 
 SCL | 22
 SDI | 21
+VDD | 3V3
+VSS | GND
+
+### Buzzer
+Nombre | GPIO 
+--- | --- 
+DATA | 27
 VDD | 3V3
 VSS | GND
