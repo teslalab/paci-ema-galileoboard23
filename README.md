@@ -50,7 +50,7 @@ Puede seguir está guía para la instalación como una segunda opción
 1. Adafruit IO Arduino *** de Adafruit ***
 ![Adafruit IO Libreria](img/AdaIOLib.png)
 2. Adafruit BME680 	*** de Adafruit ***
-![Adafruit BME680 Libreria](AdaBMElib.png)
+![Adafruit BME680 Libreria](img/AdaBMElib.png)
 
 
 ## Pinout
