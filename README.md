@@ -65,6 +65,7 @@ Puede seguir está guía para la instalación como una segunda opción
 	- temp
 	- hume 
 	- gases  	
+	
 	![Credenciales Adafruit IO](img/feeds.png)
 
 3. Cree un nuevo Dashboard en Adafruit IO 
