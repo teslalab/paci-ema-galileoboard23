@@ -40,6 +40,19 @@ Puede seguir está guía para la instalación como una segunda opción
 
 [DRIVER_CH340]: https://www.arduined.eu/ch340-windows-10-driver-download/
 
+## Instalación de librerias 
+
+1. Sketch
+2. Incluir libreria
+3. Gestionar Bibliotecas 
+
+### Librerias a instalar 
+1. Adafruit IO Arduino *** de Adafruit ***
+![Adafruit IO Libreria](img/AdaIOLib.png)
+2. Adafruit BME680 	*** de Adafruit ***
+![Adafruit BME680 Libreria](AdaBMElib.png)
+
+
 ## Pinout
 
 ### NeoPixels
