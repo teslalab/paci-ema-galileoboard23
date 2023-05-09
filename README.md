@@ -52,6 +52,28 @@ Puede seguir está guía para la instalación como una segunda opción
 2. Adafruit BME680 	*** de Adafruit ***
 ![Adafruit BME680 Libreria](img/AdaBMElib.png)
 
+## Código Base 
+
+1. El código base de que se le brinda le permite realizar la configuración de las credenciales del WiFi
+   y la plataforma Adafruit IO. Se requiere ingresar los siguientes datos
+   ![Credenciales Adafruit IO](img/credenciales.png)
+
+   - Copie y pegue las credenciales en el archivo *** config.h *** 
+   - Modifique las credenciales del WiFi
+
+2. Cree los siguientes feeds en la pestaña de *** Feeds *** 
+	- temp
+	- hume 
+	- gases  	
+	![Credenciales Adafruit IO](img/feeds.png)
+
+3. Cree un nuevo Dashboard en Adafruit IO 
+	![Credenciales Adafruit IO](img/dashboard.png)
+
+4. Cree tres nuevos block utilizando la opción *** Line chart ***  
+	- Asigneles cada uno de los feeds creados en el paso No.2
+	![Credenciales Adafruit IO](img/dashfinal.png)
+
 
 ## Pinout
 
