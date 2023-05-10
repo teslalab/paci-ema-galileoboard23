@@ -2,16 +2,16 @@
 
 // Creamos cuenta en io.adafruit.com,
 // Pegamos nuestras credenciales de Adafruit IO .
-#define IO_USERNAME "your_username"
-#define IO_KEY "your_key"
+#define IO_USERNAME "angelisidro"
+#define IO_KEY "aio_sheK62I0vu3WQ1BeopjPcQmi0nQ8"
 
 /******************************* WIFI **************************************/
 /* Código compatible unicamente con tarjetas de desarrollo de ESP32
 Este código contiene las credenciales que utilizara el Router proporcionado especificamente
 para este taller */
 
-#define WIFI_SSID "UGMaker" 
-#define WIFI_PASS "123456789"
+#define WIFI_SSID "Daniiez 11T Pro" 
+#define WIFI_PASS "cats12345"
  
 #include "AdafruitIO_WiFi.h"
 
