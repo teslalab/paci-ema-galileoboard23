@@ -10,8 +10,8 @@
 Este código contiene las credenciales que utilizara el Router proporcionado especificamente
 para este taller */
 
-#define WIFI_SSID "Daniiez 11T Pro" 
-#define WIFI_PASS "Angel12345"
+#define WIFI_SSID "UGMaker" 
+#define WIFI_PASS "123456789"
  
 #include "AdafruitIO_WiFi.h"
 

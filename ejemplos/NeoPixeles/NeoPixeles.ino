@@ -4,7 +4,7 @@
 #include <Adafruit_Sensor.h>
 #include "Adafruit_BME680.h"
 #include <Wire.h>
-
+#include "Adafruit_NeoPixel.h"
 
 #define SEALEVELPRESSURE_HPA (1013.25)
 
@@ -14,6 +14,14 @@ Adafruit_BME680 bme; // I2C
 AdafruitIO_Feed *temperatura = io.feed("temp");
 AdafruitIO_Feed *humedad = io.feed("hume");
 AdafruitIO_Feed *gases = io.feed("gases");
+
+
+// Neopixels
+#define PIXEL_PIN     14
+#define PIXEL_COUNT   6
+#define PIXEL_TYPE    NEO_GRB + NEO_KHZ800
+Adafruit_NeoPixel pixels = Adafruit_NeoPixel(PIXEL_COUNT, PIXEL_PIN, PIXEL_TYPE);
+AdafruitIO_Feed *color = io.feed("color");
 
 void setup() {
 
@@ -47,7 +55,10 @@ void setup() {
   bme.setIIRFilterSize(BME680_FILTER_SIZE_3);
   bme.setGasHeater(320, 150); // 320*C for 150 ms
   
-
+  color->onMessage(handleMessage);
+    // neopixel init
+  pixels.begin();
+  pixels.show();
 
 }
 
@@ -81,4 +92,18 @@ void loop() {
 
 }
 
+void handleMessage(AdafruitIO_Data *data) {
 
+  // print RGB values and hex value
+  Serial.println("Received HEX: ");
+  Serial.println(data->value());
+
+  long color = data->toNeoPixel();
+
+  for(int i=0; i<PIXEL_COUNT; ++i) {
+    pixels.setPixelColor(i, color);
+  }
+
+  pixels.show();
+
+}
