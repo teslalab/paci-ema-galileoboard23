@@ -1,6 +1,6 @@
 # Mediciones Ambientales con GalIoT Board
 ## PACI - Electrónica y Medio Ambiente - 2023
- ![Background](img/background.png)
+ ![Background](img/galiot_board-1.png)
 ## Instalación de la Tarjeta GALIoT Board
 
 Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
