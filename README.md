@@ -10,13 +10,15 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 	- En la pestaña ***Ajustes*** buscamos la opción: ***Gestor de URLs Adicionales de Tarjetas: ***
 	- Pegamos la siguiente URL: `https://dl.espressif.com/dl/package_esp32_index.json`
 	- Luego presionamos la opción ***OK*** y automáticamente se cerrará la ventana.
-	![Conf ESP32 en Arduino](img/conf-esp32-arduino-1.png)
+
+    ![Conf ESP32 en Arduino](img/conf-esp32-arduino-1.png)
 
 3. Debemos ir a la pestaña ***Herramientas***->***Placa***->***Gestor de tarjetas***.
 	- Colocamos en la barra de búsqueda ***ESP32***.
 	- Seleccionamos la opción que nos muestre ***ESP32*** de Expressif.
 	- Instalamos y luego presionamos la opción de ***Cerrar***.
-	![Conf ESP32 en Arduino](img/conf-esp32-arduino-2.png)
+
+   ![Conf ESP32 en Arduino](img/conf-esp32-arduino-2.png)
 
 4. Debemos ir a la pestaña ***Herramientas***->***Placa***->***ESP32 Arduino***.
    	- Seleccionamos la opción que nos muestre ***ESP32 Dev Module*** o ***ESP32 Wrover Module*** de Expressif.
@@ -53,8 +55,11 @@ Puede seguir está guía para la instalación como una segunda opción:
 
 ## Instalación de librerias en Arduino
 1. Adafruit IO Arduino *** de Adafruit ***
+   
    ![Adafruit IO Libreria](img/instalar-adafruit-io-lib.png)
-2. Adafruit BME680 	*** de Adafruit ***
+   
+3. Adafruit BME680 	*** de Adafruit ***
+   
    ![Adafruit BME680 Libreria](img/instalar-adafruit-bme680-lib.png)
 
 ## Código Base 
