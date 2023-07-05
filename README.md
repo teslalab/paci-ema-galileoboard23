@@ -60,6 +60,7 @@ Puede seguir está guía para la instalación como una segunda opción:
 ## Código Base 
 
 1. El código base de que se le brinda le permite realizar interacción con la tarjeta.
+2. Puedes encontrar varios ejemplos en la carpeta de ejemplos de este github.
 
 ## Pinout
 
