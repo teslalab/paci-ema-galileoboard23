@@ -11,12 +11,22 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 	- Pegamos la siguiente URL: `https://dl.espressif.com/dl/package_esp32_index.json`
 	- Luego presionamos la opción ***OK*** y automáticamente se cerrará la ventana.
 ![Conf ESP32 en Arduino](img/conf-esp32-arduino-1.png)
+
 3. Debemos ir a la pestaña ***Herramientas***->***Placa***->***Gestor de tarjetas***.
 	- Colocamos en la barra de búsqueda ***ESP32***.
-	- Seleccionamos la opción que nos muestre ***NodeMCU-32S***.
+	- Seleccionamos la opción que nos muestre ***ESP32*** de Expressif.
 	- Instalamos y luego presionamos la opción de ***Cerrar***.
+![Conf ESP32 en Arduino](img/conf-esp32-arduino-2.png)
 
-Con esto tendremos completa la instalación de nuestra tarjeta ESP32 y lista para ser programada.	 
+4. Debemos ir a la pestaña ***Herramientas***->***Placa***->***ESP32 Arduino***.
+   	- Seleccionamos la opción que nos muestre ***ESP32 Dev Module*** o ***ESP32 Wrover Module*** de Expressif.
+  
+![Conf ESP32 en Arduino](img/conf-esp32-arduino-3.png)
+ 	
+
+Con esto tendremos completa la instalación de nuestra tarjeta ESP32 y lista para ser programada.
+
+
 
 ## Instalación USB Driver ***(Si no reconoce el puerto COM)***
 
