@@ -1,4 +1,4 @@
-# Calidad de aire en interiores con ESP32
+# Mediciones Ambientales con Galileo Board
 ## Maker Faire CDMX 2023
  ![Background](img/background.png)
 ## Instalación de la Tarjeta GALIoT Board
