@@ -49,7 +49,7 @@ Puede seguir está guía para la instalación como una segunda opción:
 
 [Sigue la guía para instalar el driver CH340][DRIVER_CH340]
 
-[DRIVER_CH340]: [https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/introduction](https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/windows-710)
+[DRIVER_CH340]: https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/windows-710
 
 ## Instalación de librerias en Arduino
 1. Adafruit IO Arduino *** de Adafruit ***
