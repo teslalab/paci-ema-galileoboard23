@@ -10,6 +10,7 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 	- En la pestaña ***Ajustes*** buscamos la opción: ***Gestor de URLs Adicionales de Tarjetas: ***
 	- Pegamos la siguiente URL: `https://dl.espressif.com/dl/package_esp32_index.json`
 	- Luego presionamos la opción ***OK*** y automáticamente se cerrará la ventana.
+![Conf ESP32 en Arduino](img/conf-esp32-arduino-1.png)
 3. Debemos ir a la pestaña ***Herramientas***->***Placa***->***Gestor de tarjetas***.
 	- Colocamos en la barra de búsqueda ***ESP32***.
 	- Seleccionamos la opción que nos muestre ***NodeMCU-32S***.
