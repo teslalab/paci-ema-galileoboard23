@@ -34,7 +34,7 @@ En algunos casos nuestra PC no es capaz de reconocer el dispositivo USB que noso
 
 [Descarga este driver para Windows][DRIVER_USB]
 
-[DRIVER_USB]: https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE?_gl=1*hu0k4z*_ga*MTE0NjMwNzUzNC4xNjgzNjU2NDcz*_ga_T369JS7J9N*MTY4ODUzNjczNi4xLjEuMTY4ODUzNjkwOS4wLjAuMA..
+[DRIVER_USB]: https://cdn.sparkfun.com/assets/learn_tutorials/5/9/7/Windows-CH340-Driver.zip?_gl=1*wudwzh*_ga*MTE0NjMwNzUzNC4xNjgzNjU2NDcz*_ga_T369JS7J9N*MTY4ODUzNjczNi4xLjEuMTY4ODUzNzA4MC4wLjAuMA..
 
 1. Descomprimir el archivo ZIP descargado 
 2. Seleccionar el archivo para instalación de Windows
