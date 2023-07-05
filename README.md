@@ -34,7 +34,7 @@ En algunos casos nuestra PC no es capaz de reconocer el dispositivo USB que noso
 
 [Descarga este driver para Windows][DRIVER_USB]
 
-[DRIVER_USB]: https://www.arduined.eu/files/windows10/CH341SER.zip
+[DRIVER_USB]: https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE?_gl=1*hu0k4z*_ga*MTE0NjMwNzUzNC4xNjgzNjU2NDcz*_ga_T369JS7J9N*MTY4ODUzNjczNi4xLjEuMTY4ODUzNjkwOS4wLjAuMA..
 
 1. Descomprimir el archivo ZIP descargado 
 2. Seleccionar el archivo para instalación de Windows
@@ -49,7 +49,7 @@ Puede seguir está guía para la instalación como una segunda opción:
 
 [Sigue la guía para instalar el driver CH340][DRIVER_CH340]
 
-[DRIVER_CH340]: https://www.arduined.eu/ch340-windows-10-driver-download/
+[DRIVER_CH340]: [https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/introduction](https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/windows-710)
 
 ## Instalación de librerias en Arduino
 1. Adafruit IO Arduino *** de Adafruit ***
