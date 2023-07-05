@@ -1,5 +1,5 @@
-# Mediciones Ambientales con Galileo Board
-## Maker Faire CDMX 2023
+# Mediciones Ambientales con GalIoT Board
+## PACI - Electrónica y Medio Ambiente - 2023
  ![Background](img/background.png)
 ## Instalación de la Tarjeta GALIoT Board
 
