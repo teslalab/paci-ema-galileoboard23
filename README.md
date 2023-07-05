@@ -53,9 +53,9 @@ Puede seguir está guía para la instalación como una segunda opción:
 
 ## Instalación de librerias en Arduino
 1. Adafruit IO Arduino *** de Adafruit ***
-![Adafruit IO Libreria](img/AdaIOLib.png)
+![Adafruit IO Libreria](img/instalar-adafruit-io-lib.png)
 2. Adafruit BME680 	*** de Adafruit ***
-![Adafruit BME680 Libreria](img/AdaBMElib.png)
+![Adafruit BME680 Libreria](img/instalar-adafruit-bme680-lib.png)
 
 ## Código Base 
 
