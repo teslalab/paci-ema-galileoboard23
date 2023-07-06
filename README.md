@@ -102,7 +102,7 @@ Utilice el código de ejemplo con nombre ***galiot_board-bme680test*** y podrá 
 ### Pruebas con Neopixeles
 Utilice el código de ejemplo con nombre ***galiot_board-neopixel-test-simple-v1*** y logrará una interacción con los 6 neopixeles de la tarjeta.
 
-En el Monitor Serial sólo podrá retroalimentación cuando el ciclo de encendido de Neopixeles esté iniciando y los ciclos que realiza.
+En el Monitor Serial recibirá retroalimentación cuando el ciclo de encendido de Neopixeles esté iniciando y los ciclos que realiza.
    
    ![Neopixel Monitor Serial](img/ejemplo-neopixel.png)
 
@@ -113,4 +113,15 @@ A continuación logrará ver ejemplos de los ciclos que realiza el programa ejem
    ![Neopixel-2](img/neopixel-2.jpg)
 
    ![Neopixel-3](img/neopixel-3.jpg)
+
+### Instalando un WiFi Server
+Utilice el código de ejemplo con nombre ***galiot_board-wifiserver-v2*** y logrará una interacción con un servidor web instalado dentro del ESP32. En esta interacción usted logrará interactuar por medio de botones con los neopixeles de la tarjeta y logrará ver desplegada en la página web la temperatura del sensor BME680.
+
+En el Monitor Serial se verá la retroalimentación cuando esté iniciando el programa y mensajes de conexión al WiFi, prueba del sensor BME680 y la conexión de algún cliente al webserver.
+   
+   ![WiFi Monitor Serial](img/conexion-wifi-2.png)
+
+En la siguiente imagen lográ ver la página web corriendo en el explorador de un teléfono celular.
+   
+   ![WiFi-Server](img/wifi-server-1.jpg)
 
