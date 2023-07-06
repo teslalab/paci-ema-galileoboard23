@@ -97,18 +97,18 @@ VSS | GND
 ### Pruebas con sensor BME680
 Utilice el código de ejemplo con nombre ***galiot_board-bme680test*** y podrá tener una interacción con el Sensor BME680 despegando algunas variables ambientales.
    
-   ![BME680Test](img/ejemplo_bme680_test.png)
+   ![BME680Test](img/ejemplo_bme680_test.jpg)
 
 ### Pruebas con Neopixeles
 Utilice el código de ejemplo con nombre ***galiot_board-neopixel-test-simple-v1*** y logrará una interacción con los 6 neopixeles de la tarjeta.
 
 En el Monitor Serial sólo podrá retroalimentación cuando el ciclo de encendido de Neopixeles esté iniciando y los ciclos que realiza.
    
-   ![Neopixel Monitor Serial](img/ejemplo-neopixel.png)
+   ![Neopixel Monitor Serial](img/ejemplo-neopixel.jpg)
 
 A continuación logrará ver ejemplos de los ciclos que realiza el programa ejemplo de los Neopixeles.
    
-   ![Neopixel-1](img/neopixel-1.png)
+   ![Neopixel-1](img/neopixel-1.jpg)
 
    ![Neopixel-2](img/neopixel-2.png)
 
