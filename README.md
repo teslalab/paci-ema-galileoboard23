@@ -91,3 +91,11 @@ Nombre | GPIO
 DATA | 27
 VDD | 3V3
 VSS | GND
+
+## Ejemplos básicos
+
+### Pruebas con sensor BME680
+Utilice el código de ejemplo con nombre ***galiot_board-bme680test*** y podrá tener una interacción con el Sensor BME680 despegando algunas variables ambientales.
+   
+   ![BME680Test](img/ejemplo_bme680_test.png)
+   
