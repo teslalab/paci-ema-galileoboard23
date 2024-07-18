@@ -1,5 +1,5 @@
 # Mediciones Ambientales con GaLIoT Board
-## PACI - Electrónica y Medio Ambiente - 2023
+## PACI - Electrónica y Medio Ambiente
 ![Background](img/galiot_board-2.png)
 ## Instalación de la Tarjeta GALIoT Board
 
